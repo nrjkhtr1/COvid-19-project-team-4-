@@ -5,6 +5,8 @@ Data Source: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-chal
 
 Project files: https://drive.google.com/open?id=1IT1n_1LTm8vmzS8QNGVGSjbg6bijB1OI
 
+Our Report: https://colab.research.google.com/drive/1Y8N0D6_PiauesQHIAsXmuxKcz9GryhWl?authuser=1
+
 We suggest you to run "Day4" Section of final_code.ipynb notebook in our google drive using google colab.
 
 ## Requirements
