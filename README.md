@@ -5,6 +5,8 @@ Data Source: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-chal
 
 Project files: https://drive.google.com/open?id=1IT1n_1LTm8vmzS8QNGVGSjbg6bijB1OI
 
+We suggest you to run "Day4" Section of final_code.ipynb notebook in our google drive using google colab.
+
 ## Requirements
 In order to run this you need to have:
   1. Python 3.5 (or higher)
@@ -49,4 +51,5 @@ Any suggestions in improving are appreciated.
 
 
 Project links to download other files: https://drive.google.com/open?id=1IT1n_1LTm8vmzS8QNGVGSjbg6bijB1OI
-We prefer you to run this code on colab. If you need any help or facing any difficulty, then please contact us.
+
+We prefer you to run this code on colab. If you need any help or facing any difficulty, then please contact us. 
